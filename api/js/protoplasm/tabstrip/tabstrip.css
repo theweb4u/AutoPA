@@ -1,0 +1,35 @@
+/*
+ * TabControl styles
+ */
+
+div.tabs {
+}
+div.tabs span.tab {
+    padding-top:        3px;
+    padding-left:       7px;
+    padding-right:      7px;
+    padding-bottom:     3px;
+    border-top:         1px solid #999999;
+    border-left:        1px solid #999999;
+    border-right:       1px solid #999999;
+    background-color:   #DDDDDD;
+    cursor:             pointer;
+    margin-left:        5px;
+}
+div.tabs span.active {
+    border-bottom:      1px solid #FFFFFF;
+    background-color:   #FFFFFF;
+}
+div.tabs span.hover {
+    background-color:   #EEEEEE;
+}
+div.tabs span.disabled {
+    color:   			#888888;
+}
+div.tabpanels {
+    margin-top:         3px;
+    padding:            10px;
+    border:             1px solid #999999;
+}
+div.tabpanel {
+}
