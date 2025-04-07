@@ -1,0 +1,76 @@
+.SAW_TopNav_Dark a, .SAW_TopNav_Dark a:link, .SAW_TopNav_Dark a:visited, .SAW_TopNav_Dark a:active{
+	color: #CCEDFF; /* Nav Light */
+}
+
+.SAW_TopNav_Dark a:hover{
+	color: #FFFFFF; /* Global White */
+}
+
+.SAW_TopNav_Light a, .SAW_TopNav_Light a:link, .SAW_TopNav_Light a:visited, .SAW_TopNav_Light a:active {
+	color: #6699CC; /* Text Medium */
+}
+
+.SAW_TopNav_Light a:hover {
+  color: #003399; /* Primary */
+}
+
+/* --- Plain Side Navigation Declarations ---------------------------------------------------------------------------- */
+.SAW_SideNav1_Plain, .SAW_SideNav1_Open_Plain, 
+.SAW_SideNav1_Open_Child_Selected_Plain, .SAW_SideNav1_Open_Selected_Plain, .SAW_SideNav1_Selected_Plain {
+  border-top-color: #BABDC2; /* Neutral Dark */
+  border-left-color: #BABDC2; /* Neutral Dark */
+  border-right-color: #003399; /* Primary */
+  border-bottom-color: #003399; /* Primary */
+}
+.SAW_SideNav1_Plain, .SAW_SideNav1_Open_Plain {
+  background-color: #9BB6D2; /* Table BG Dark */
+}
+.SAW_SideNav1_Open_Child_Selected_Plain, .SAW_SideNav1_Open_Selected_Plain, .SAW_SideNav1_Selected_Plain {
+  background-color: #E0E8F0; /* Table BG Light */
+}
+
+#SAW_SideNavigation a {
+  color: #222847; /* Text Dark */
+}
+#SAW_SideNavigation a:hover {
+  color: #2170BD; /* Link */
+}
+#SAW_SideNavigation .SAW_SideNav2_Open_Selected_Plain a, 
+#SAW_SideNavigation .SAW_SideNav2_Open_Selected_Plain a:active, 
+#SAW_SideNavigation .SAW_SideNav2_Open_Selected_Plain a:link, 
+#SAW_SideNavigation .SAW_SideNav2_Open_Selected_Plain a:visited {
+  color: #4B74D5; /* Secondary */
+}
+#SAW_SideNavigation .SAW_SideNav2_Open_Selected_Plain a:hover {
+  color: #2170BD; /* Link */
+}
+#SAW_SideNavigation .SAW_SideNav3_Plain a, 
+#SAW_SideNavigation .SAW_SideNav3_Plain a:active, 
+#SAW_SideNavigation .SAW_SideNav3_Plain a:link, 
+#SAW_SideNavigation .SAW_SideNav3_Plain a:visited, 
+#SAW_SideNavigation .SAW_SideNav3_Open_Plain a, 
+#SAW_SideNavigation .SAW_SideNav3_Open_Plain a:active, 
+#SAW_SideNavigation .SAW_SideNav3_Open_Plain a:link, 
+#SAW_SideNavigation .SAW_SideNav3_Open_Plain a:visited {
+  color: #222847; /* Text Dark */
+}
+#SAW_SideNavigation .SAW_SideNav3_Plain a:hover, 
+#SAW_SideNavigation .SAW_SideNav3_Open_Plain a:hover {
+  color: #2170BD; /* Link */
+}
+#SAW_SideNavigation .SAW_SideNav3_Open_Selected_Plain a, 
+#SAW_SideNavigation .SAW_SideNav3_Open_Selected_Plain a:active, 
+#SAW_SideNavigation .SAW_SideNav3_Open_Selected_Plain a:hover, 
+#SAW_SideNavigation .SAW_SideNav3_Open_Selected_Plain a:link, 
+#SAW_SideNavigation .SAW_SideNav3_Open_Selected_Plain a:visited, 
+#SAW_SideNavigation .SAW_SideNav3_Selected_Plain a, 
+#SAW_SideNavigation .SAW_SideNav3_Selected_Plain a:active, 
+#SAW_SideNavigation .SAW_SideNav3_Selected_Plain a:hover, 
+#SAW_SideNavigation .SAW_SideNav3_Selected_Plain a:link, 
+#SAW_SideNavigation .SAW_SideNav3_Selected_Plain a:visited {
+  color: #4B74D5; /* Secondary */
+}
+#SAW_SideNavigation .SAW_SideNav3_Open_Selected_Plain a:hover, 
+#SAW_SideNavigation .SAW_SideNav3_Selected_Plain a:hover {
+  color: #2170BD; /* Link */
+}

@@ -1,0 +1,23 @@
+CREATE TABLE `vidtraining`.`faqs` (
+`id` INT( 11 ) NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`asked_by` INT( 11 ) NOT NULL ,
+`asked_on` DATETIME NOT NULL ,
+`question` TEXT NOT NULL ,
+`answered_by` INT( 11 ) NOT NULL ,
+`answered_on` DATETIME NOT NULL ,
+`modified_on` DATETIME NOT NULL ,
+`pod_id` INT( 11 ) NOT NULL ,
+`active` TINYINT( 4 ) NOT NULL 
+);
+ALTER TABLE `faqs` CHANGE `asked_by` `asked_by` INT( 11 ) NOT NULL DEFAULT '0',
+CHANGE `answered_by` `answered_by` INT( 11 ) NOT NULL DEFAULT '0',
+CHANGE `pod_id` `pod_id` INT( 11 ) NOT NULL DEFAULT '0',
+CHANGE `active` `active` TINYINT( 4 ) NOT NULL DEFAULT '1';
+ALTER TABLE `faqs` ADD `answer_viewed` TINYINT( 4 ) NOT NULL DEFAULT '0' AFTER `answered_on`;
+ALTER TABLE `users` ADD `last_training` INT( 11 ) NOT NULL DEFAULT '0' AFTER `last_logged_on`;
+ALTER TABLE `users` ADD `last_module` INT( 11 ) NOT NULL DEFAULT '0' AFTER `last_training` ,
+ADD `last_pod` INT( 11 ) NOT NULL DEFAULT '0' AFTER `last_module` ;
+ALTER TABLE `faqs` ADD `modified_by` INT( 11 ) NOT NULL DEFAULT '0' AFTER `modified_on`;
+ALTER TABLE `faqs` ADD `answer` TEXT NOT NULL AFTER `question`;
+ALTER TABLE `long_answers` DROP `added_on`;
+ALTER TABLE `multi_choice` DROP `added_on`;
