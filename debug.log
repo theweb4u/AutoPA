@@ -1,0 +1,487 @@
+2025-04-14 23:18:46 - Session user_id: 1
+2025-04-14 23:18:46 - Loading schedule.inc
+2025-04-14 23:18:50 - Session user_id: 1
+2025-04-14 23:18:50 - Loading schedule.inc
+2025-04-14 23:18:53 - Session user_id: 1
+2025-04-14 23:18:53 - Loading schedule.inc
+2025-04-14 23:19:02 - Session user_id: 1
+2025-04-14 23:19:02 - Loading schedule.inc
+2025-04-14 23:21:26 - Session user_id: not set
+2025-04-14 23:21:26 - Loading login.inc
+2025-04-14 23:21:26 - login.inc loaded
+2025-04-14 23:21:41 - Session user_id: not set
+2025-04-14 23:21:41 - Loading login.inc
+2025-04-14 23:21:41 - login.inc loaded
+2025-04-14 23:21:41 - Login successful for newuser, redirecting
+2025-04-14 23:21:42 - Session user_id: 3
+2025-04-14 23:21:42 - Loading schedule.inc
+2025-04-14 23:21:57 - Session user_id: 3
+2025-04-14 23:21:57 - Loading schedule.inc
+2025-04-14 23:32:29 - Session user_id: not set
+2025-04-14 23:32:29 - Loading login.inc
+2025-04-14 23:32:29 - login.inc loaded
+2025-04-14 23:32:41 - Session user_id: not set
+2025-04-14 23:32:41 - Loading login.inc
+2025-04-14 23:32:41 - login.inc loaded
+2025-04-14 23:32:42 - Login successful for testuser, redirecting
+2025-04-14 23:32:42 - Session user_id: 1
+2025-04-14 23:32:42 - Loading schedule.inc
+2025-04-14 23:32:42 - schedule.inc: Start
+2025-04-14 23:32:42 - schedule.inc: Tasks fetched, count: 1
+2025-04-14 23:32:42 - schedule.inc: End
+2025-04-14 23:32:52 - add_task.php: Start, Session user_id: 1
+2025-04-14 23:32:52 - add_task.php: End
+2025-04-14 23:33:25 - add_task.php: Start, Session user_id: 1
+2025-04-14 23:33:25 - add_task.php: Processing POST
+2025-04-14 23:33:25 - add_task.php: Task inserted, title: Work on Auto PA
+2025-04-14 23:33:27 - Session user_id: 1
+2025-04-14 23:33:27 - Loading schedule.inc
+2025-04-14 23:33:27 - schedule.inc: Start
+2025-04-14 23:33:27 - schedule.inc: Tasks fetched, count: 2
+2025-04-14 23:33:27 - schedule.inc: End
+2025-04-15 00:33:22 - Session user_id: not set
+2025-04-15 00:33:22 - Loading login.inc
+2025-04-15 00:33:22 - login.inc loaded
+2025-04-15 00:45:44 - Session user_id: not set
+2025-04-15 00:45:44 - Loading login.inc
+2025-04-15 00:45:44 - login.inc loaded
+2025-04-15 00:45:57 - Session user_id: not set
+2025-04-15 00:45:57 - Loading login.inc
+2025-04-15 00:45:57 - login.inc loaded
+2025-04-15 00:45:57 - Login successful for testuser, redirecting
+2025-04-15 00:45:57 - Session user_id: 1
+2025-04-15 00:45:57 - Loading schedule.inc
+2025-04-15 00:45:57 - schedule.inc: Start
+2025-04-15 00:45:57 - schedule.inc: Tasks fetched, count: 2
+2025-04-15 00:45:57 - schedule.inc: End
+2025-04-15 00:46:03 - add_task.php: Start, Session user_id: 1
+2025-04-15 00:46:03 - add_task.php: End
+2025-04-15 00:46:10 - Session user_id: 1
+2025-04-15 00:46:10 - Loading schedule.inc
+2025-04-15 00:46:10 - schedule.inc: Start
+2025-04-15 00:46:10 - schedule.inc: Tasks fetched, count: 2
+2025-04-15 00:46:10 - schedule.inc: End
+2025-04-15 00:47:15 - Session user_id: 1
+2025-04-15 00:47:15 - Loading schedule.inc
+2025-04-15 00:47:15 - schedule.inc: Start
+2025-04-15 00:47:15 - schedule.inc: Tasks fetched, count: 2
+2025-04-15 00:47:15 - schedule.inc: End
+2025-04-15 00:47:28 - Session user_id: 1
+2025-04-15 00:47:28 - Loading schedule.inc
+2025-04-15 00:47:28 - schedule.inc: Start
+2025-04-15 00:47:28 - schedule.inc: Tasks fetched, count: 2
+2025-04-15 00:47:28 - schedule.inc: End
+2025-04-15 01:08:16 - Session user_id: not set
+2025-04-15 01:08:16 - Loading login.inc
+2025-04-15 01:08:16 - login.inc loaded
+2025-04-15 01:50:19 - Session user_id: not set
+2025-04-15 01:50:19 - Loading login.inc
+2025-04-15 01:50:19 - login.inc loaded
+2025-04-15 02:14:16 - Session user_id: not set
+2025-04-15 02:14:16 - Loading login.inc
+2025-04-15 02:14:16 - login.inc loaded
+2025-04-15 02:49:30 - Session user_id: not set
+2025-04-15 02:49:30 - Loading login.inc
+2025-04-15 02:49:30 - login.inc loaded
+2025-04-15 03:38:25 - Session user_id: not set
+2025-04-15 03:38:25 - Loading login.inc
+2025-04-15 03:38:25 - login.inc loaded
+2025-04-15 03:38:31 - Session user_id: not set
+2025-04-15 03:38:31 - Loading login.inc
+2025-04-15 03:38:31 - login.inc loaded
+2025-04-15 03:38:31 - Login successful for testuser, redirecting
+2025-04-15 03:38:31 - Session user_id: 1
+2025-04-15 03:38:31 - Loading schedule.inc
+2025-04-15 03:38:31 - schedule.inc: Start
+2025-04-15 03:38:31 - schedule.inc: Tasks fetched, count: 2
+2025-04-15 03:38:31 - schedule.inc: End
+2025-04-15 04:13:59 - Session user_id: not set
+2025-04-15 04:13:59 - Loading login.inc
+2025-04-15 04:13:59 - login.inc loaded
+2025-04-15 04:14:11 - Session user_id: not set
+2025-04-15 04:14:11 - Loading login.inc
+2025-04-15 04:14:11 - login.inc loaded
+2025-04-15 04:14:11 - Login successful for testuser, redirecting
+2025-04-15 04:14:11 - Session user_id: 1
+2025-04-15 04:14:11 - Loading schedule.inc
+2025-04-15 04:14:11 - schedule.inc: Start
+2025-04-15 04:14:11 - schedule.inc: Tasks fetched, count: 1
+2025-04-15 04:14:11 - schedule.inc: End
+2025-04-15 04:16:54 - Session user_id: 1
+2025-04-15 04:16:54 - Loading schedule.inc
+2025-04-15 04:16:54 - schedule.inc: Start
+2025-04-15 04:16:54 - schedule.inc: Tasks fetched, count: 2
+2025-04-15 04:16:54 - schedule.inc: End
+2025-04-15 04:23:56 - Session user_id: not set
+2025-04-15 04:23:56 - Loading login.inc
+2025-04-15 04:23:56 - login.inc loaded
+2025-04-15 04:35:19 - Session user_id: not set
+2025-04-15 04:35:19 - Loading login.inc
+2025-04-15 04:35:19 - login.inc loaded
+2025-04-15 04:38:26 - Session user_id: 1
+2025-04-15 04:38:26 - Loading schedule.inc
+2025-04-15 04:38:53 - Session user_id: 1
+2025-04-15 04:38:53 - Loading schedule.inc
+2025-04-15 04:39:07 - Session user_id: 1
+2025-04-15 04:39:07 - Loading schedule.inc
+2025-04-15 04:39:57 - Session user_id: 1
+2025-04-15 04:39:57 - Loading schedule.inc
+2025-04-15 04:41:38 - Session user_id: 1
+2025-04-15 04:41:38 - Loading schedule.inc
+2025-04-15 05:04:17 - login.inc loaded
+2025-04-15 05:13:36 - login.inc loaded
+2025-04-15 05:31:29 - login.inc loaded
+2025-04-15 06:05:55 - login.inc loaded
+2025-04-15 06:05:55 - login.inc loaded
+2025-04-15 06:06:02 - login.inc loaded
+2025-04-15 06:06:02 - Login successful for testuser, redirecting
+2025-04-15 06:08:31 - login.inc loaded
+2025-04-15 06:08:35 - login.inc loaded
+2025-04-15 06:08:35 - Login successful for testuser, redirecting
+2025-04-15 06:31:05 - login.inc loaded
+2025-04-15 06:31:11 - login.inc loaded
+2025-04-15 06:31:11 - Login successful for testuser, redirecting
+2025-04-15 06:38:33 - login.inc loaded
+2025-04-15 06:38:37 - login.inc loaded
+2025-04-15 06:38:37 - Login successful for testuser, redirecting
+2025-04-15 07:07:13 - login.inc loaded
+2025-04-15 07:07:43 - login.inc loaded
+2025-04-15 07:07:48 - login.inc loaded
+2025-04-15 07:07:48 - Login successful for testuser, redirecting
+2025-04-15 07:28:04 - login.inc loaded
+2025-04-15 07:28:08 - login.inc loaded
+2025-04-15 07:28:08 - Login successful for testuser, redirecting
+2025-04-15 07:46:14 - login.inc loaded
+2025-04-15 07:46:18 - login.inc loaded
+2025-04-15 07:46:18 - Login successful for testuser, redirecting
+2025-04-15 07:56:01 - login.inc loaded
+2025-04-15 07:56:18 - login.inc loaded
+2025-04-15 07:56:21 - login.inc loaded
+2025-04-15 07:56:21 - Login successful for testuser, redirecting
+2025-04-15 08:31:27 - login.inc loaded
+2025-04-15 09:11:21 - login.inc loaded
+2025-04-15 09:11:24 - login.inc loaded
+2025-04-15 09:11:24 - Login successful for testuser, redirecting
+2025-04-15 09:15:40 - login.inc loaded
+2025-04-15 09:15:47 - login.inc loaded
+2025-04-15 09:15:47 - Login successful for testuser, redirecting
+2025-04-15 09:27:53 - login.inc loaded
+2025-04-15 09:27:57 - login.inc loaded
+2025-04-15 09:27:57 - Login successful for testuser, redirecting
+2025-04-15 09:35:46 - login.inc loaded
+2025-04-15 09:35:50 - login.inc loaded
+2025-04-15 09:35:50 - Login successful for testuser, redirecting
+2025-04-15 09:41:50 - login.inc loaded
+2025-04-15 09:41:53 - login.inc loaded
+2025-04-15 09:41:53 - Login successful for testuser, redirecting
+2025-04-15 09:48:08 - login.inc loaded
+2025-04-15 10:17:18 - login.inc loaded
+2025-04-15 10:17:18 - login.inc loaded
+2025-04-15 10:17:19 - login.inc loaded
+2025-04-15 10:32:21 - login.inc loaded
+2025-04-15 11:04:40 - login.inc loaded
+2025-04-15 11:21:35 - login.inc loaded
+2025-04-15 12:27:42 - login.inc loaded
+2025-04-15 13:02:14 - login.inc loaded
+2025-04-15 13:37:48 - login.inc loaded
+2025-04-15 13:38:41 - login.inc loaded
+2025-04-15 13:46:10 - login.inc loaded
+2025-04-15 13:46:15 - login.inc loaded
+2025-04-15 13:46:18 - login.inc loaded
+2025-04-15 13:46:25 - login.inc loaded
+2025-04-15 17:31:55 - login.inc loaded
+2025-04-15 17:38:55 - login.inc loaded
+2025-04-15 18:15:47 - login.inc loaded
+2025-04-15 18:57:55 - login.inc loaded
+2025-04-15 19:19:01 - login.inc loaded
+2025-04-15 19:19:07 - login.inc loaded
+2025-04-15 19:19:07 - Login successful for testuser, redirecting
+2025-04-15 19:52:46 - login.inc loaded
+2025-04-15 20:16:34 - login.inc loaded
+2025-04-15 21:18:52 - login.inc loaded
+2025-04-15 21:42:40 - login.inc loaded
+2025-04-15 22:18:01 - login.inc loaded
+2025-04-15 22:37:08 - login.inc loaded
+2025-04-16 00:10:47 - login.inc loaded
+2025-04-16 00:57:27 - login.inc loaded
+2025-04-16 00:57:31 - login.inc loaded
+2025-04-16 00:57:40 - login.inc loaded
+2025-04-16 00:57:48 - login.inc loaded
+2025-04-16 03:00:46 - login.inc loaded
+2025-04-16 03:03:59 - login.inc loaded
+2025-04-16 03:03:59 - Signup failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testuser' for key 'username'
+2025-04-16 03:04:01 - login.inc loaded
+2025-04-16 03:04:05 - login.inc loaded
+2025-04-16 03:04:05 - Login successful for testuser, redirecting
+2025-04-16 03:30:22 - login.inc loaded
+2025-04-16 04:08:22 - login.inc loaded
+2025-04-16 04:38:13 - login.inc loaded
+2025-04-16 04:39:39 - login.inc loaded
+2025-04-16 04:52:09 - login.inc loaded
+2025-04-16 05:39:56 - login.inc loaded
+2025-04-16 05:39:59 - login.inc loaded
+2025-04-16 05:40:00 - Login successful for testuser, redirecting
+2025-04-16 06:44:07 - login.inc loaded
+2025-04-16 06:45:23 - login.inc loaded
+2025-04-16 06:47:09 - login.inc loaded
+2025-04-16 06:49:47 - login.inc loaded
+2025-04-16 06:49:47 - login.inc loaded
+2025-04-16 06:49:47 - login.inc loaded
+2025-04-16 06:49:47 - login.inc loaded
+2025-04-16 06:49:48 - login.inc loaded
+2025-04-16 06:49:48 - login.inc loaded
+2025-04-16 06:49:48 - login.inc loaded
+2025-04-16 06:49:48 - login.inc loaded
+2025-04-16 06:49:48 - login.inc loaded
+2025-04-16 06:49:48 - login.inc loaded
+2025-04-16 06:49:49 - login.inc loaded
+2025-04-16 06:49:49 - login.inc loaded
+2025-04-16 06:49:49 - login.inc loaded
+2025-04-16 06:49:49 - login.inc loaded
+2025-04-16 07:13:50 - login.inc loaded
+2025-04-16 07:44:35 - login.inc loaded
+2025-04-16 07:49:34 - login.inc loaded
+2025-04-16 08:22:11 - login.inc loaded
+2025-04-16 09:08:49 - login.inc loaded
+2025-04-16 09:26:29 - login.inc loaded
+2025-04-16 09:26:33 - login.inc loaded
+2025-04-16 09:26:33 - Login successful for testuser, redirecting
+2025-04-16 10:02:19 - login.inc loaded
+2025-04-16 10:02:23 - login.inc loaded
+2025-04-16 10:02:23 - Login successful for testuser, redirecting
+2025-04-16 10:09:20 - login.inc loaded
+2025-04-16 10:45:40 - login.inc loaded
+2025-04-16 11:09:01 - login.inc loaded
+2025-04-16 12:29:53 - login.inc loaded
+2025-04-16 12:42:38 - login.inc loaded
+2025-04-16 13:13:50 - login.inc loaded
+2025-04-16 13:15:10 - login.inc loaded
+2025-04-16 13:19:14 - login.inc loaded
+2025-04-16 13:43:58 - login.inc loaded
+2025-04-16 14:15:46 - login.inc loaded
+2025-04-16 15:09:39 - login.inc loaded
+2025-04-16 15:52:09 - login.inc loaded
+2025-04-16 15:54:56 - login.inc loaded
+2025-04-16 17:34:42 - login.inc loaded
+2025-04-16 18:48:57 - login.inc loaded
+2025-04-16 19:22:50 - login.inc loaded
+2025-04-16 19:39:06 - login.inc loaded
+2025-04-16 19:39:26 - login.inc loaded
+2025-04-16 19:39:26 - login.inc loaded
+2025-04-16 19:57:24 - login.inc loaded
+2025-04-16 20:36:03 - login.inc loaded
+2025-04-16 22:08:32 - login.inc loaded
+2025-04-16 22:25:58 - login.inc loaded
+2025-04-16 22:28:08 - login.inc loaded
+2025-04-16 22:40:29 - login.inc loaded
+2025-04-16 23:25:21 - login.inc loaded
+2025-04-16 23:25:24 - login.inc loaded
+2025-04-16 23:25:25 - Login successful for testuser, redirecting
+2025-04-17 02:12:28 - login.inc loaded
+2025-04-17 02:13:23 - login.inc loaded
+2025-04-17 03:04:22 - login.inc loaded
+2025-04-17 03:05:39 - login.inc loaded
+2025-04-17 05:53:52 - login.inc loaded
+2025-04-17 05:55:27 - login.inc loaded
+2025-04-17 05:55:46 - login.inc loaded
+2025-04-17 05:55:50 - login.inc loaded
+2025-04-17 05:56:15 - login.inc loaded
+2025-04-17 06:39:52 - login.inc loaded
+2025-04-17 06:52:19 - login.inc loaded
+2025-04-17 06:55:30 - login.inc loaded
+2025-04-17 06:55:30 - login.inc loaded
+2025-04-17 06:55:30 - login.inc loaded
+2025-04-17 07:02:36 - login.inc loaded
+2025-04-17 07:02:40 - login.inc loaded
+2025-04-17 07:02:40 - Login successful for testuser, redirecting
+2025-04-17 07:50:02 - login.inc loaded
+2025-04-17 09:09:32 - login.inc loaded
+2025-04-17 09:49:34 - login.inc loaded
+2025-04-17 09:59:28 - login.inc loaded
+2025-04-17 09:59:32 - login.inc loaded
+2025-04-17 09:59:32 - Login successful for testuser, redirecting
+2025-04-17 10:09:45 - login.inc loaded
+2025-04-17 10:13:43 - login.inc loaded
+2025-04-17 10:14:57 - login.inc loaded
+2025-04-17 10:15:09 - login.inc loaded
+2025-04-17 10:17:30 - login.inc loaded
+2025-04-17 10:23:36 - login.inc loaded
+2025-04-17 10:52:42 - login.inc loaded
+2025-04-17 12:30:00 - login.inc loaded
+2025-04-17 12:44:35 - login.inc loaded
+2025-04-17 12:55:08 - login.inc loaded
+2025-04-17 12:55:31 - login.inc loaded
+2025-04-17 13:03:12 - login.inc loaded
+2025-04-17 13:39:13 - login.inc loaded
+2025-04-17 14:31:27 - login.inc loaded
+2025-04-17 15:27:32 - login.inc loaded
+2025-04-17 16:14:43 - login.inc loaded
+2025-04-17 16:55:32 - login.inc loaded
+2025-04-17 17:32:09 - login.inc loaded
+2025-04-17 17:32:09 - login.inc loaded
+2025-04-17 17:32:12 - login.inc loaded
+2025-04-17 18:03:14 - login.inc loaded
+2025-04-17 18:48:31 - login.inc loaded
+2025-04-17 18:48:31 - login.inc loaded
+2025-04-17 19:21:12 - login.inc loaded
+2025-04-17 19:38:14 - login.inc loaded
+2025-04-17 19:40:28 - login.inc loaded
+2025-04-17 19:58:37 - login.inc loaded
+2025-04-17 19:58:37 - login.inc loaded
+2025-04-17 19:58:38 - login.inc loaded
+2025-04-17 20:34:14 - login.inc loaded
+2025-04-17 22:45:51 - login.inc loaded
+2025-04-17 22:55:37 - login.inc loaded
+2025-04-17 22:55:41 - login.inc loaded
+2025-04-17 22:55:41 - Login successful for testuser, redirecting
+2025-04-17 23:03:05 - login.inc loaded
+2025-04-18 00:19:11 - login.inc loaded
+2025-04-18 02:43:55 - login.inc loaded
+2025-04-18 02:43:59 - login.inc loaded
+2025-04-18 02:43:59 - Login successful for testuser, redirecting
+2025-04-18 02:47:53 - login.inc loaded
+2025-04-18 02:49:52 - login.inc loaded
+2025-04-18 03:39:39 - login.inc loaded
+2025-04-18 03:39:42 - login.inc loaded
+2025-04-18 03:39:42 - Login successful for testuser, redirecting
+2025-04-18 03:40:59 - login.inc loaded
+2025-04-18 03:45:29 - login.inc loaded
+2025-04-18 03:45:51 - login.inc loaded
+2025-04-18 03:46:10 - login.inc loaded
+2025-04-18 03:46:11 - Login successful for testuser, redirecting
+2025-04-18 03:46:47 - login.inc loaded
+2025-04-18 03:46:47 - Login successful for testuser, redirecting
+2025-04-18 03:47:42 - login.inc loaded
+2025-04-18 07:46:13 - login.inc loaded
+2025-04-18 10:16:05 - login.inc loaded
+2025-04-18 10:18:16 - login.inc loaded
+2025-04-18 10:32:56 - login.inc loaded
+2025-04-18 10:33:00 - login.inc loaded
+2025-04-18 10:33:00 - Login successful for testuser, redirecting
+2025-04-18 10:39:39 - login.inc loaded
+2025-04-18 10:40:10 - login.inc loaded
+2025-04-18 10:40:10 - Login successful for testuser, redirecting
+2025-04-18 11:51:49 - login.inc loaded
+2025-04-18 11:51:52 - login.inc loaded
+2025-04-18 12:57:10 - login.inc loaded
+2025-04-18 13:09:58 - login.inc loaded
+2025-04-18 13:32:08 - login.inc loaded
+2025-04-18 13:45:45 - login.inc loaded
+2025-04-18 16:07:02 - login.inc loaded
+2025-04-18 17:38:43 - login.inc loaded
+2025-04-18 17:38:43 - login.inc loaded
+2025-04-18 18:16:15 - login.inc loaded
+2025-04-18 18:16:18 - login.inc loaded
+2025-04-18 19:00:08 - login.inc loaded
+2025-04-18 19:00:09 - login.inc loaded
+2025-04-18 19:32:25 - login.inc loaded
+2025-04-18 19:32:26 - login.inc loaded
+2025-04-18 19:32:28 - login.inc loaded
+2025-04-18 19:58:52 - login.inc loaded
+2025-04-18 20:39:11 - login.inc loaded
+2025-04-18 20:39:21 - login.inc loaded
+2025-04-18 20:39:21 - Login successful for testuser, redirecting
+2025-04-18 22:10:45 - login.inc loaded
+2025-04-18 22:10:46 - login.inc loaded
+2025-04-18 22:26:31 - login.inc loaded
+2025-04-18 22:40:21 - login.inc loaded
+2025-04-18 22:40:27 - login.inc loaded
+2025-04-18 22:40:27 - Login successful for testuser, redirecting
+2025-04-18 22:40:36 - login.inc loaded
+2025-04-18 22:40:41 - login.inc loaded
+2025-04-18 22:40:46 - login.inc loaded
+2025-04-18 22:40:46 - Signup failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'username'
+2025-04-18 22:41:07 - login.inc loaded
+2025-04-18 22:41:07 - User not found: richard
+2025-04-18 22:41:47 - login.inc loaded
+2025-04-18 22:41:47 - Signup successful for Richard
+2025-04-18 22:42:24 - login.inc loaded
+2025-04-18 22:42:24 - Login successful for Richard, redirecting
+2025-04-18 23:12:58 - login.inc loaded
+2025-04-18 23:13:07 - login.inc loaded
+2025-04-18 23:13:07 - Login successful for Richard, redirecting
+2025-04-18 23:21:54 - login.inc loaded
+2025-04-19 00:54:43 - login.inc loaded
+2025-04-19 01:13:45 - login.inc loaded
+2025-04-19 01:13:53 - login.inc loaded
+2025-04-19 01:13:53 - Login successful for Richard, redirecting
+2025-04-19 02:25:59 - login.inc loaded
+2025-04-19 03:28:12 - login.inc loaded
+2025-04-19 04:06:12 - login.inc loaded
+2025-04-19 04:07:17 - login.inc loaded
+2025-04-19 04:07:22 - login.inc loaded
+2025-04-19 04:07:22 - Login successful for Richard, redirecting
+2025-04-19 04:10:39 - login.inc loaded
+2025-04-19 04:57:35 - login.inc loaded
+2025-04-19 08:37:14 - login.inc loaded
+2025-04-19 09:06:56 - login.inc loaded
+2025-04-19 10:15:51 - login.inc loaded
+2025-04-19 10:56:08 - login.inc loaded
+2025-04-19 13:01:37 - login.inc loaded
+2025-04-19 14:09:13 - login.inc loaded
+2025-04-19 16:11:10 - login.inc loaded
+2025-04-19 16:32:46 - login.inc loaded
+2025-04-19 19:03:20 - login.inc loaded
+2025-04-19 19:10:43 - login.inc loaded
+2025-04-19 19:10:44 - login.inc loaded
+2025-04-19 19:12:57 - login.inc loaded
+2025-04-19 19:13:03 - login.inc loaded
+2025-04-19 19:13:03 - Login successful for Richard, redirecting
+2025-04-19 20:00:31 - login.inc loaded
+2025-04-19 20:00:36 - login.inc loaded
+2025-04-19 20:00:36 - Login successful for Richard, redirecting
+2025-04-19 20:21:30 - login.inc loaded
+2025-04-19 20:43:39 - login.inc loaded
+2025-04-19 20:44:01 - login.inc loaded
+2025-04-19 20:44:01 - Login successful for Richard, redirecting
+2025-04-19 22:39:58 - login.inc loaded
+2025-04-20 01:58:58 - login.inc loaded
+2025-04-20 02:32:34 - login.inc loaded
+2025-04-20 04:42:05 - login.inc loaded
+2025-04-20 05:00:51 - login.inc loaded
+2025-04-20 08:43:05 - login.inc loaded
+2025-04-20 09:36:42 - login.inc loaded
+2025-04-20 10:54:16 - login.inc loaded
+2025-04-20 14:09:56 - login.inc loaded
+2025-04-20 16:50:05 - login.inc loaded
+2025-04-20 18:28:24 - login.inc loaded
+2025-04-20 19:30:35 - login.inc loaded
+2025-04-20 19:40:46 - login.inc loaded
+2025-04-20 19:40:53 - login.inc loaded
+2025-04-20 19:58:42 - login.inc loaded
+2025-04-20 19:58:45 - login.inc loaded
+2025-04-20 19:58:45 - Login successful for testuser, redirecting
+2025-04-20 20:00:52 - login.inc loaded
+2025-04-20 20:01:09 - login.inc loaded
+2025-04-20 20:01:09 - Login successful for Richard, redirecting
+2025-04-20 21:19:01 - login.inc loaded
+2025-04-20 21:24:35 - login.inc loaded
+2025-04-20 21:24:39 - login.inc loaded
+2025-04-20 21:24:39 - Login successful for Richard, redirecting
+2025-04-20 22:46:41 - login.inc loaded
+2025-04-20 22:46:47 - login.inc loaded
+2025-04-20 22:46:47 - Login successful for testuser, redirecting
+2025-04-21 00:33:49 - login.inc loaded
+2025-04-21 00:33:50 - login.inc loaded
+2025-04-21 00:33:50 - login.inc loaded
+2025-04-21 00:34:14 - login.inc loaded
+2025-04-21 00:37:35 - login.inc loaded
+2025-04-21 00:45:27 - login.inc loaded
+2025-04-21 00:55:01 - login.inc loaded
+2025-04-21 00:55:09 - login.inc loaded
+2025-04-21 00:57:10 - login.inc loaded
+2025-04-21 00:57:13 - login.inc loaded
+2025-04-21 00:59:38 - login.inc loaded
+2025-04-21 00:59:45 - login.inc loaded
+2025-04-21 00:59:46 - Login successful for testuser, redirecting
+2025-04-21 01:09:29 - login.inc loaded
+2025-04-21 01:09:33 - login.inc loaded
+2025-04-21 01:09:33 - Login successful for Richard, redirecting
+2025-04-21 01:14:10 - login.inc loaded
+2025-04-21 01:19:52 - login.inc loaded
+2025-04-21 01:19:56 - login.inc loaded
+2025-04-21 01:19:56 - Login successful for testuser, redirecting
+2025-04-21 01:43:30 - login.inc loaded
+2025-04-21 01:53:21 - login.inc loaded
+2025-04-21 01:53:21 - Login successful for Richard, redirecting
+2025-04-21 02:06:18 - login.inc loaded

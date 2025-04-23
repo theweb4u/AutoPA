@@ -1,0 +1,698 @@
+Starting scheduling at 2025-04-21 00:22:28
+Cleared previous schedule
+Reset task scheduling fields
+Unscheduled tasks found: 7
+Breaks found: 3
+Scheduling for: 2025-04-21
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-04-21: 0
+Processing task 'Meeting Prep' (ID: 93): remaining 900 seconds on 2025-04-21
+Scheduled task 'Meeting Prep' (ID: 93): 13:22:00 to 13:37:00 on 2025-04-21
+Processing task 'Test AutoPA' (ID: 94): remaining 1500 seconds on 2025-04-21
+Scheduled task 'Test AutoPA' (ID: 94): 13:52:00 to 14:17:00 on 2025-04-21
+Processing task 'Install Roof' (ID: 102): remaining 13500 seconds on 2025-04-21
+Scheduled task 'Install Roof' (ID: 102): 14:22:00 to 14:52:00 on 2025-04-21
+Scheduled task 'Install Roof (Part)' (ID: 102): 15:22:00 to 16:22:00 on 2025-04-21
+Processing task 'Team Sync' (ID: 121): remaining 3600 seconds on 2025-04-21
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-21
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-21
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-22
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-04-22: 1
+Processing task 'Install Roof' (ID: 102): remaining 13500 seconds on 2025-04-22
+Scheduled task 'Install Roof' (ID: 102): 09:00:00 to 11:00:00 on 2025-04-22
+Scheduled task 'Install Roof (Part)' (ID: 102): 13:00:00 to 14:45:00 on 2025-04-22
+Processing task 'Team Sync' (ID: 121): remaining 3600 seconds on 2025-04-22
+Scheduled task 'Team Sync' (ID: 121): 15:30:00 to 16:30:00 on 2025-04-22
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-22
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-22
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-23
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-04-23: 0
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-23
+Scheduled task 'Paint Bedroom' (ID: 98): 09:00:00 to 11:00:00 on 2025-04-23
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-23
+Scheduled task 'Do Ironing' (ID: 96): 11:30:00 to 12:00:00 on 2025-04-23
+Scheduled task 'Do Ironing (Part)' (ID: 96): 13:00:00 to 13:15:00 on 2025-04-23
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-24
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-04-24: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-25
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-04-25: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-26
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-04-26: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-27
+Scheduling for: 2025-04-28
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-04-28: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-29
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-04-29: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-30
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-04-30: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-01
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-01: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-02
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-02: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-03
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-03: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-04
+Scheduling for: 2025-05-05
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-05: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-06
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-06: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-07
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-07: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-08
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-08: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-09
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-09: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-10
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-10: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-11
+Scheduling for: 2025-05-12
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-12: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-13
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-13: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-14
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-14: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-15
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-15: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-16
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-16: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-17
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-17: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-18
+Scheduling for: 2025-05-19
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-19: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-20
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-20: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-21
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-21: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduled 10 task(s) starting from 2025-04-21 12:22:00.
+Starting scheduling at 2025-04-21 00:34:36
+Cleared previous schedule
+Reset task scheduling fields
+Unscheduled tasks found: 7
+Breaks found: 3
+Scheduling for: 2025-04-21
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-04-21: 0
+Processing task 'Meeting Prep' (ID: 93): remaining 900 seconds on 2025-04-21
+Scheduled task 'Meeting Prep' (ID: 93): 13:04:00 to 13:19:00 on 2025-04-21
+Processing task 'Test AutoPA' (ID: 94): remaining 1500 seconds on 2025-04-21
+Scheduled task 'Test AutoPA' (ID: 94): 13:34:00 to 13:59:00 on 2025-04-21
+Processing task 'Install Roof' (ID: 102): remaining 13500 seconds on 2025-04-21
+Scheduled task 'Install Roof' (ID: 102): 14:04:00 to 14:34:00 on 2025-04-21
+Processing task 'Team Sync' (ID: 121): remaining 3600 seconds on 2025-04-21
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-21
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-21
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-22
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-04-22: 1
+Processing task 'Install Roof' (ID: 102): remaining 13500 seconds on 2025-04-22
+Scheduled task 'Install Roof' (ID: 102): 09:00:00 to 11:00:00 on 2025-04-22
+Scheduled task 'Install Roof (Part)' (ID: 102): 13:00:00 to 14:45:00 on 2025-04-22
+Processing task 'Team Sync' (ID: 121): remaining 3600 seconds on 2025-04-22
+Scheduled task 'Team Sync' (ID: 121): 15:30:00 to 16:30:00 on 2025-04-22
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-22
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-22
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-23
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-04-23: 0
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-23
+Scheduled task 'Paint Bedroom' (ID: 98): 09:00:00 to 11:00:00 on 2025-04-23
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-23
+Scheduled task 'Do Ironing' (ID: 96): 11:30:00 to 12:00:00 on 2025-04-23
+Scheduled task 'Do Ironing (Part)' (ID: 96): 13:00:00 to 13:15:00 on 2025-04-23
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-24
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-04-24: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-25
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-04-25: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-26
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-04-26: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-27
+Scheduling for: 2025-04-28
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-04-28: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-29
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-04-29: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-30
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-04-30: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-01
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-01: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-02
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-02: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-03
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-03: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-04
+Scheduling for: 2025-05-05
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-05: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-06
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-06: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-07
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-07: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-08
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-08: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-09
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-09: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-10
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-10: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-11
+Scheduling for: 2025-05-12
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-12: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-13
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-13: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-14
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-14: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-15
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-15: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-16
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-16: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-17
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-17: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-18
+Scheduling for: 2025-05-19
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-19: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-20
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-20: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-21
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-21: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduled 9 task(s) starting from 2025-04-21 12:34:00.
+Starting scheduling at 2025-04-21 01:00:42
+Cleared previous schedule
+Reset task scheduling fields
+Unscheduled tasks found: 7
+Breaks found: 3
+Scheduling for: 2025-04-21
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-04-21: 0
+Processing task 'Meeting Prep' (ID: 93): remaining 900 seconds on 2025-04-21
+Scheduled task 'Meeting Prep' (ID: 93): 13:00:00 to 13:15:00 on 2025-04-21
+Processing task 'Test AutoPA' (ID: 94): remaining 1500 seconds on 2025-04-21
+Scheduled task 'Test AutoPA' (ID: 94): 13:30:00 to 13:55:00 on 2025-04-21
+Processing task 'Install Roof' (ID: 102): remaining 13500 seconds on 2025-04-21
+Scheduled task 'Install Roof' (ID: 102): 14:00:00 to 15:00:00 on 2025-04-21
+Scheduled task 'Install Roof (Part)' (ID: 102): 15:30:00 to 16:30:00 on 2025-04-21
+Processing task 'Team Sync' (ID: 121): remaining 3600 seconds on 2025-04-21
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-21
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-21
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-22
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-04-22: 1
+Processing task 'Install Roof' (ID: 102): remaining 13500 seconds on 2025-04-22
+Scheduled task 'Install Roof' (ID: 102): 09:00:00 to 11:00:00 on 2025-04-22
+Scheduled task 'Install Roof (Part)' (ID: 102): 13:00:00 to 14:45:00 on 2025-04-22
+Processing task 'Team Sync' (ID: 121): remaining 3600 seconds on 2025-04-22
+Scheduled task 'Team Sync' (ID: 121): 15:30:00 to 16:30:00 on 2025-04-22
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-22
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-22
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-23
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-04-23: 0
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-23
+Scheduled task 'Paint Bedroom' (ID: 98): 09:00:00 to 11:00:00 on 2025-04-23
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-23
+Scheduled task 'Do Ironing' (ID: 96): 11:30:00 to 12:00:00 on 2025-04-23
+Scheduled task 'Do Ironing (Part)' (ID: 96): 13:00:00 to 13:15:00 on 2025-04-23
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-24
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-04-24: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-25
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-04-25: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-26
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-04-26: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-27
+Scheduling for: 2025-04-28
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-04-28: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-29
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-04-29: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-30
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-04-30: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-01
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-01: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-02
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-02: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-03
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-03: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-04
+Scheduling for: 2025-05-05
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-05: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-06
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-06: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-07
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-07: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-08
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-08: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-09
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-09: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-10
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-10: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-11
+Scheduling for: 2025-05-12
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-12: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-13
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-13: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-14
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-14: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-15
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-15: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-16
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-16: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-17
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-17: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-18
+Scheduling for: 2025-05-19
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-19: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-20
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-20: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-21
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-21: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduled 10 task(s) starting from 2025-04-21 13:00:00.
+Starting scheduling at 2025-04-21 01:09:03
+Cleared previous schedule
+Reset task scheduling fields
+Unscheduled tasks found: 7
+Breaks found: 3
+Scheduling for: 2025-04-21
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-04-21: 0
+Processing task 'Meeting Prep' (ID: 93): remaining 900 seconds on 2025-04-21
+Scheduled task 'Meeting Prep' (ID: 93): 13:08:00 to 13:23:00 on 2025-04-21
+Processing task 'Test AutoPA' (ID: 94): remaining 1500 seconds on 2025-04-21
+Scheduled task 'Test AutoPA' (ID: 94): 13:38:00 to 14:03:00 on 2025-04-21
+Processing task 'Install Roof' (ID: 102): remaining 13500 seconds on 2025-04-21
+Scheduled task 'Install Roof' (ID: 102): 14:08:00 to 14:38:00 on 2025-04-21
+Processing task 'Team Sync' (ID: 121): remaining 3600 seconds on 2025-04-21
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-21
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-21
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-22
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-04-22: 1
+Processing task 'Install Roof' (ID: 102): remaining 13500 seconds on 2025-04-22
+Scheduled task 'Install Roof' (ID: 102): 09:00:00 to 11:00:00 on 2025-04-22
+Scheduled task 'Install Roof (Part)' (ID: 102): 13:00:00 to 14:45:00 on 2025-04-22
+Processing task 'Team Sync' (ID: 121): remaining 3600 seconds on 2025-04-22
+Scheduled task 'Team Sync' (ID: 121): 15:30:00 to 16:30:00 on 2025-04-22
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-22
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-22
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-23
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-04-23: 0
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-23
+Scheduled task 'Paint Bedroom' (ID: 98): 09:00:00 to 11:00:00 on 2025-04-23
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-23
+Scheduled task 'Do Ironing' (ID: 96): 11:30:00 to 12:00:00 on 2025-04-23
+Scheduled task 'Do Ironing (Part)' (ID: 96): 13:00:00 to 13:15:00 on 2025-04-23
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-24
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-04-24: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-25
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-04-25: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-26
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-04-26: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-27
+Scheduling for: 2025-04-28
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-04-28: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-29
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-04-29: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-30
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-04-30: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-01
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-01: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-02
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-02: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-03
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-03: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-04
+Scheduling for: 2025-05-05
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-05: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-06
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-06: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-07
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-07: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-08
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-08: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-09
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-09: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-10
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-10: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-11
+Scheduling for: 2025-05-12
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-12: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-13
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-13: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-14
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-14: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-15
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-15: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-16
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-16: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-17
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-17: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-18
+Scheduling for: 2025-05-19
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-19: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-20
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-20: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-21
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-21: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduled 9 task(s) starting from 2025-04-21 13:08:00.
+Starting scheduling at 2025-04-21 01:20:00
+Cleared previous schedule
+Reset task scheduling fields
+Unscheduled tasks found: 7
+Breaks found: 3
+Scheduling for: 2025-04-21
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-04-21: 0
+Processing task 'Meeting Prep' (ID: 93): remaining 900 seconds on 2025-04-21
+Scheduled task 'Meeting Prep' (ID: 93): 13:19:00 to 13:34:00 on 2025-04-21
+Processing task 'Test AutoPA' (ID: 94): remaining 1500 seconds on 2025-04-21
+Scheduled task 'Test AutoPA' (ID: 94): 13:49:00 to 14:14:00 on 2025-04-21
+Processing task 'Install Roof' (ID: 102): remaining 13500 seconds on 2025-04-21
+Scheduled task 'Install Roof' (ID: 102): 14:19:00 to 14:49:00 on 2025-04-21
+Scheduled task 'Install Roof (Part)' (ID: 102): 15:19:00 to 16:19:00 on 2025-04-21
+Processing task 'Team Sync' (ID: 121): remaining 3600 seconds on 2025-04-21
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-21
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-21
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-22
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-04-22: 1
+Processing task 'Install Roof' (ID: 102): remaining 13500 seconds on 2025-04-22
+Scheduled task 'Install Roof' (ID: 102): 09:00:00 to 11:00:00 on 2025-04-22
+Scheduled task 'Install Roof (Part)' (ID: 102): 13:00:00 to 14:45:00 on 2025-04-22
+Processing task 'Team Sync' (ID: 121): remaining 3600 seconds on 2025-04-22
+Scheduled task 'Team Sync' (ID: 121): 15:30:00 to 16:30:00 on 2025-04-22
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-22
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-22
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-23
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-04-23: 0
+Processing task 'Paint Bedroom' (ID: 98): remaining 7200 seconds on 2025-04-23
+Scheduled task 'Paint Bedroom' (ID: 98): 09:00:00 to 11:00:00 on 2025-04-23
+Processing task 'Do Ironing' (ID: 96): remaining 2700 seconds on 2025-04-23
+Scheduled task 'Do Ironing' (ID: 96): 11:30:00 to 12:00:00 on 2025-04-23
+Scheduled task 'Do Ironing (Part)' (ID: 96): 13:00:00 to 13:15:00 on 2025-04-23
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-24
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-04-24: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-25
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-04-25: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-26
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-04-26: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-27
+Scheduling for: 2025-04-28
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-04-28: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-29
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-04-29: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-04-30
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-04-30: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-01
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-01: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-02
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-02: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-03
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-03: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-04
+Scheduling for: 2025-05-05
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-05: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-06
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-06: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-07
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-07: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-08
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-08: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-09
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-09: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-10
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-10: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-11
+Scheduling for: 2025-05-12
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-12: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-13
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-13: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-14
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-14: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-15
+Work hours for thu: 09:00:00 to 17:00:00
+Events found for 2025-05-15: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-16
+Work hours for fri: 09:00:00 to 17:00:00
+Events found for 2025-05-16: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-17
+Work hours for sat: 09:30:00 to 12:30:00
+Events found for 2025-05-17: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-18
+Scheduling for: 2025-05-19
+Work hours for mon: 09:20:00 to 16:30:00
+Events found for 2025-05-19: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-20
+Work hours for tue: 09:00:00 to 17:00:00
+Events found for 2025-05-20: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduling for: 2025-05-21
+Work hours for wed: 09:00:00 to 17:00:00
+Events found for 2025-05-21: 0
+Task 'Vacuum House' (ID: 97): cannot be scheduled, due date 0000-00-00 00:00:00 passed
+Scheduled 10 task(s) starting from 2025-04-21 13:19:00.
